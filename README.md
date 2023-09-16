@@ -39,6 +39,23 @@ func spellOfCommunity() -> String {
 
 🪄 Become a fellow wizard in this realm! Cast your own spells, share your knowledge, and collaborate on new enchantments! 💬🤝
 
+# 🌟 Pledge of the Open-Source Sorcerer 🌟
+
+**A Covenant of Code and Magic**
+
+In the hallowed halls of this enchanted GitHub realm, I, Victor Bjørke, the guardian and sorcerer, make a solemn vow.
+
+🪄 I hereby pledge that all the spells, incantations, and magical artifacts crafted within these sacred repositories shall forever be shrouded in the light of open-source enchantment.
+
+🧙‍♂️ With the wisdom of the ancients and the spirit of collaboration, I promise that every piece of software and script shall bear the gift of freedom. A gift granted through the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html), allowing all who dare to wield these spells the power to study, modify, and share their secrets.
+
+🌌✨ By this magical covenant, I invite fellow wizards, sorceresses, and code enthusiasts to join me on this noble quest. Together, we shall embrace the ethos of open-source sorcery, where knowledge knows no boundaries, and innovation knows no chains.
+
+🔮 Through the GPL, we pledge to keep the digital realm vibrant, accessible, and filled with the spirit of unity, ensuring that our magical creations shall remain open and free for all.
+
+🌟 Join me on this journey of endless possibilities, where the realms of magic and technology intertwine, and together, we shall leave an indelible mark on the annals of the digital cosmos.
+
+🪄🌟 The path to open-source enchantment awaits! 🌟🪄
 ### Ways to Join:
 
 1. **Fork and Contribute**: Offer your own magical enhancements to my spells.
